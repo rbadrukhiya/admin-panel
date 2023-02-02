@@ -1,0 +1,92 @@
+.blog-card .img 
+{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.blog-card
+{
+    /* background-color: bisque; */
+    padding: 20px;
+    border-radius: 10px;
+}
+.blog-card .img img
+{
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+}
+.landing-page .container
+{
+/* display: inline-block !important; */
+border-radius: 0px!important;
+width: 100%!important;
+box-shadow: none;
+
+
+}
+.landing-page p{
+    color: #000;
+
+}
+.landing-page ul a {
+    color: #fff!important;
+}
+header
+{
+    background-color: #00425A;
+
+}
+.landing-page{
+    /* background-color: cadetblue; */
+    margin: auto;
+    width: 100%;
+}
+.card-img-top
+{
+    object-fit: cover;
+    height: 250px!important;
+    width: 100%!important;
+}
+.blog-title
+{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root ,.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root,
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused , .css-o943dk-MuiFormLabel-root-MuiInputLabel-root.Mui-focused ,
+.css-1ff8729-MuiInputBase-root-MuiFilledInput-root
+
+{
+    color: #fff!important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root ,
+.css-e4w4as-MuiFormLabel-root-MuiInputLabel-root 
+{
+    color: #fff!important;
+    border-color: #fff!important;
+}
+
+.css-1ff8729-MuiInputBase-root-MuiFilledInput-root 
+{
+    color: #fff!important;
+}
+.css-1ff8729-MuiInputBase-root-MuiFilledInput-root:before
+{
+    border-color: #fff!important;
+}
+.tagname
+{
+    color: #fff;
+    font-weight: 700;
+}
+.main-single-blog a
+{
+    color: #fff!important;
+    text-decoration: none;
+}
+/* .css-o943dk-MuiFormLabel-root-MuiInputLabel-root.Mui-focused */
